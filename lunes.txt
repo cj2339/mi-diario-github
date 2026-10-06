@@ -1,3 +1,0 @@
-Hoy hemos empezado el curso de Git
-Segundo línea
-Esta nueva línea la he editado haciendo uso del comando nano
